@@ -14,7 +14,8 @@
 
 
 5. Горячие клавиши
-F2 -  
+F2 -  Переименовать файл 
+Ctrl + E - открыть Проводник
 Ctrl + v - paste
 Ctrl + c - copy 
 Win + V - paste + history
@@ -22,8 +23,14 @@ Ctrl + A - Select All
 Ctrl + Arrow - 
 Ctrl + Shift + Arrow - 
 
+Alt + Tab - 
+
 5. Консоль 
 
 cd - перейти к путю 
 code . - Открыть VSC в текущей папке 
 py or python 
+
+# 1.5 hour
+
+Py223
