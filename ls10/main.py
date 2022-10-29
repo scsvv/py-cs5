@@ -3,11 +3,6 @@
 """
 # None, null, undefined
 
-value = None
-if (value == None) {
-
-}
-
 while 1: 
     K = input("Enter number: ")
     
