@@ -1,0 +1,18 @@
+[
+    {
+        "name": "VW CC", 
+        "price": 12
+    }, 
+    {
+        "name": "BMW E340", 
+        "price": 20
+    },
+    {
+        "name": "AUDI Q7", 
+        "price": 234
+    },
+    {
+        "name": "Toyota Supra", 
+        "price": 123
+    }
+]
