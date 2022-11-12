@@ -12,7 +12,6 @@ class BanWord(Exception):
 
 
 try: 
-    
     banned_word = "cat"
     sentance = "cat is cat but isnt dog"
     sentance = sentance.split()
